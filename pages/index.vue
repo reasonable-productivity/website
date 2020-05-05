@@ -93,7 +93,7 @@
               <input
                 type="hidden"
                 name="_subject"
-                value="Contact request from personal website"
+                value="Email capture from Reasonable Productivity"
               />
               <fvFormElement class="fv-col-md-12" label="Name">
                 <fvInput v-model="exmps.name" placeholder="Enter Name" />
